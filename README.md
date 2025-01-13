@@ -1,2 +1,2 @@
 
-My kickstart fork with my settings
+My neovim kickstart configuration fork with my settings (linux)
