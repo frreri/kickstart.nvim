@@ -426,6 +426,7 @@ require('lazy').setup({
         eslint = {},
         cssls = {},
         html = {},
+        clangd = {},
         --
 
         lua_ls = {
